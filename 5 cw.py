@@ -1,0 +1,12 @@
+print("Errors are a mistake in your code.")
+print("Syntax errors are a hint that you've typed something incorrectly")
+##print("here is a ex: "heelo"11")
+print("indetation errors happen when something is wrong with the way you've structured the code")
+#print('Go to school')
+print("A type error is when your code is mixed up one type of data with another")
+print("EX:BUDGET = 'fifty' - 'five'")
+print(" name error is if your code uses the name of a variable or function that hasn't yet be created")
+print("ex: print(' I live in moscow' + hometown")
+print("logic errors is when you missed a important line of code")
+print("is everything spelled correctly, do you have any unnecessary spaces at the start of a line, have you saved your code since you last made changes, have you confused numbers for letters, do all single and double qoutes have a matching closing qoute.")
+
